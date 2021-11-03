@@ -11,6 +11,8 @@ bead_picker_placer_arduino - this folder contains the arduino files that control
 Custom Marlin firmware - Based off the Marlin firmware used for 3d printers, this custom version has additional g code commands that allows more customized features with the machine as well as communication to the helper arduino
 
 beadv2_converter - this is the main python project that converts images to pixellated images matching the color pallet of the machine. It also converts the image to g code for the machine to run
+
+Electrical - Doesnt show the electical or wiring changes made but contains schematic for marlin as well as some close up photos of wiring (sorry!)
  
 
   
