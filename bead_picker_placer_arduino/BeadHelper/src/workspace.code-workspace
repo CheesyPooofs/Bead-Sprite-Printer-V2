@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "heater",
+			"path": "..\\..\\..\\heater\\heater"
+		}
+	],
+	"settings": {}
+}
